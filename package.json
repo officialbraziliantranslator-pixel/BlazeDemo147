@@ -1,0 +1,19 @@
+{
+  "name": "blazedemo147",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Automacao do site de venda de passagens\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Erlandio",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  } 
+}
